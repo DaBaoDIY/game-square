@@ -1,5 +1,3 @@
-# 超级弹力球
-
 ## 使用 Amazon Q CLI 构建弹力球游戏 🎮
 以下构建这款游戏的提示词，Prompt：
 ```bash
@@ -75,6 +73,10 @@
 
 本游戏参考了经典的打砖块游戏设计，重新实现了核心玩法和视觉效果。 
 
-TAG 🏷 #AmazonQCLI #game-square #awscommunity #gamechallenge
+🏷 #AmazonQCLI  #game-square #awscommunity #gamechallenge
 
 ![sss](http://xybdiy-img.s3-website-ap-northeast-1.amazonaws.com/2025/06/17494564324768.jpg)
+
+![xxx](http://xybdiy-img.s3-website-ap-northeast-1.amazonaws.com/2025/06/17494564757877.jpg)
+
+![qqq](http://xybdiy-img.s3-website-ap-northeast-1.amazonaws.com/2025/06/17494540935384.jpg)
